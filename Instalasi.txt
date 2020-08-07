@@ -1,0 +1,4 @@
+1. Silahkan aktifkan web server dan database pada xampp.
+2. Buka phpmyadmin, lalu buat database dengan nama uassmt4.
+3. lalu klik import, dan pilih file dari sql yg saya sudah kumpulkan yaitu uassmt4.sql
+4. Untuk masuk ke index.php silahkan login terlebih dahulu, apa bila belum punya akun silahkan kli Register.
